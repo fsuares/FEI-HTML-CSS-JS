@@ -1,0 +1,30 @@
+#bloco1 {
+    /* "Border:", é possivel definir até tres elementos
+    (border-style; border-size; border-color) (otimiza o código)
+    */
+    border: double 2px #ff0000;
+    background: #00ffa6;
+}
+
+#bloco2 {
+    border-style: double;
+    border-bottom-width: 2px;
+    background-color: #b48ce8;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+#bloco3 {
+    border: dot-dash cadetblue;
+    background: coral;
+    position: fixed;
+    top: 100px;
+    left: 200px;
+}
+
+#bloco4 {
+    position: absolute;
+    top: 600px;
+    left: 50px;
+}
