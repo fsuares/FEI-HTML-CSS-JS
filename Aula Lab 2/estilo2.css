@@ -1,0 +1,41 @@
+li
+    {
+    color: white;
+    text-align: left;
+    font-size: 40pt;
+    }
+a:hover
+    {
+    font-size: 50pt;
+    color: blue;
+    text-align: center;
+    }
+a
+    {
+    color: white;
+    font-size: 50pt;
+    text-align: center;
+    }
+
+p.subtitulo
+    {
+    color: white;
+    text-align: center;
+    font-size: 40pt;
+    }
+h1#titulo
+    {
+    color: white;
+    font-size: 55pt;
+    text-align: center;
+    }
+p
+    {
+    color: white;
+    font-size: 20pt;
+    text-align: justify;
+    }
+body
+    {
+    background-image: url("estrada.jpg");
+    }
