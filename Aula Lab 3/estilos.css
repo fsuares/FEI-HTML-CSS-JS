@@ -1,0 +1,52 @@
+body {
+    background-color: #87CFFB;
+    font-size: 20pt;
+    text-align: center;
+    }
+
+#inicio {
+    border: solid 4px #2F46AE;
+    }
+
+div {
+    position: relative;
+    height: 250px;
+    }
+
+#css {
+    height: 200px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    }
+
+#html {
+    height: 200px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    }
+
+#titulo {
+    color: red;
+    position: relative;
+    top: 50px;
+    }
+
+#paragrafo1 {
+    font-family: "Comic Sans MS";
+    font-size: 25pt;
+    color: red;
+    }
+
+#paragrafo2 {
+    font-family: "Arial Black";
+    font-size: 20pt;
+    color: green;
+    }
+
+#paragrafo3 {
+    font-family: "Freestyle Script";
+    font-size: 40pt;
+    color: white;
+    }
