@@ -1,0 +1,37 @@
+.flex-container {
+    /*chama a flexbox*/
+    display: flex;
+    background: black;
+    height: 900px;
+    /*flex-flow abrevia o flex-direction, e o flex-wrap*/
+    flex-flow: row wrap;
+    /*justify-content alinha horizontalmente*/
+    justify-content: space-around;
+    /*align-content alinha verticalmente*/
+    align-content: center;
+    /*baseline alinha os texto dentro da div*/
+    /*baseline alinha os componentes*/
+    baseline-shift: baseline;
+    }
+
+.flex-container div {
+    border: aquamarine 15px;
+    background: white;
+    font-size: 25px;
+    padding: 60px;
+    margin: 20px;
+    }
+
+.flex-container div:hover {
+    border: #00ffab 15px;
+    background: #ff0202;
+    font-size: 25px;
+    padding: 60px;
+    margin: 20px;
+}
+
+.flex-container #div7 {
+    background: white;
+    font-size: 40px;
+    padding: 20px
+    }
