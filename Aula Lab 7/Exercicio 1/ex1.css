@@ -1,0 +1,17 @@
+body {
+    background: #626262;
+}
+
+#botao {
+    width: 500px;
+}
+
+#num {
+    width: 492px;
+    text-align: center;
+}
+
+#resultado {
+    width: 500px;
+    text-align: center;
+}
