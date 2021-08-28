@@ -1,0 +1,13 @@
+body {
+    background: #ff7e7e;
+}
+
+#resultado {
+    color: red;
+}
+
+div {
+    background: white;
+    color: black;
+    width: 200px;
+}
