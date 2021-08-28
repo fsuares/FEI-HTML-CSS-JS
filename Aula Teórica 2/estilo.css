@@ -1,0 +1,62 @@
+#titulo
+    {
+    color: #0019fc;
+    font-size: 60pt;
+    }
+
+#texto
+    {
+    color: azure;
+    font-size: 27pt;
+    font-family: Arial;
+    }
+
+#subtitulo
+    {
+    color: #ffffff;
+    font-size: 40pt;
+    }
+
+#subtitulo:hover
+    {
+    color: #e20808;
+    font-size: 42pt;
+    }
+
+div
+    {
+    /*cor*/
+    color: aqua;
+    /*cor de fundo*/
+    background-color: dimgray;
+    /*tamanho da fonte*/
+    font-size: 20pt;
+    /*tamanho da "div"*/
+    height: 100px;
+    width: 300px;
+    /*espaçamento da margem (left;right;top;bottom)*/
+    margin-left: 130px;
+    /*espaçamento do texto dentro da div*/
+    padding-left: 10px;
+    padding-top: 10px;
+    /*alinhamento de texto*/
+    text-align: center;
+    }
+
+div:hover
+    {
+    background-color: #0019fc;
+    }
+
+body
+    {
+    background-color: azure;
+    background-image: url("download.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+.textos
+    {
+    color: #ffae00;
+    }
